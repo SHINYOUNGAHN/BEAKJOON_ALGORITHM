@@ -11,7 +11,5 @@
 |10171|[고양이/Cat](https://www.acmicpc.net/problem/10171)|[cat.c](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/cat.c)|
 |10172|[개/Dog](https://www.acmicpc.net/problem/10172)|[dog.c](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/dog.c)|
 |10718|[We love kriii](https://www.acmicpc.net/problem/10718)|[weLoveKriii.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/weLoveKriii.py)|
-|10869|(https://www.acmicpc.net/problem/10869)|[사칙연산/4RuleCalculation](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/4ruleCal.py)|
+|10869|[사칙연산/4RuleCalculation](https://www.acmicpc.net/problem/10869)|[4ruleCal.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/4ruleCal.py)|
 |10998|[AxB](https://www.acmicpc.net/problem/10998)|[aMulb.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/master/aMulb.py)|
-=======
->>>>>>> first commit
