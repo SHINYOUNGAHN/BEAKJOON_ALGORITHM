@@ -1,5 +1,7 @@
 # BEAKJOON_ALGORITHM
 
+![Alt text](/beakjoonImg.png)
+
 |번호|문제|파일명|
 |:---:|:---:|:---:|
 |1000|[A+B](https://www.acmicpc.net/problem/1000)|[aPlusb.c](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/aPlusb.c)|
