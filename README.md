@@ -1,5 +1,4 @@
 # BEAKJOON_ALGORITHM
-<<<<<<< HEAD
 
 ![Alt text](/beakjoonImg.png)
 
