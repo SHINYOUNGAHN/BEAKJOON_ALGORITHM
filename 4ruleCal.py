@@ -1,0 +1,6 @@
+a, b = map(int, input().split())
+print(a+b, sep='\n')
+print(a-b, sep='\n')
+print(a*b, sep='\n')
+print(int(a/b), sep='\n')
+print(a%b)
