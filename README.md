@@ -18,3 +18,4 @@
 |10718|[We love kriii](https://www.acmicpc.net/problem/10718)|[weLoveKriii.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/weLoveKriii.py)|
 |10869|[사칙연산](https://www.acmicpc.net/problem/10869)|[4ruleCal.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/4ruleCal.py)|
 |10998|[AxB](https://www.acmicpc.net/problem/10998)|[aMulb.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/master/aMulb.py)|
+|14681|[사분면 고르기](https://www.acmicpc.net/problem/14681)|[selQuadrant.py](ttps://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/selQuadrant.py)|
