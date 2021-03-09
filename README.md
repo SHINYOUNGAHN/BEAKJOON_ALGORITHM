@@ -11,6 +11,7 @@
 |2557|[Hello World](https://www.acmicpc.net/problem/2557)|[helloWorld.c](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/helloWorld.c)|
 |2588|[곱셈](https://www.acmicpc.net/problem/2588)|[multiply.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/multiply.py)|
 |2753|[윤년](https://www.acmicpc.net/problem/2753)|[leapYear.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/leapYear.py)|
+|2884|[알람시계](https://www.acmicpc.net/problem/2884)|[alarm.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/alarm.py)|
 |9498|[시험 성적](https://www.acmicpc.net/problem/9498)|[grade.py](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/grade.py)|
 |10171|[고양이](https://www.acmicpc.net/problem/10171)|[cat.c](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/cat.c)|
 |10172|[개](https://www.acmicpc.net/problem/10172)|[dog.c](https://github.com/SHINYOUNGAHN/BEAKJOON_ALGORITHM/blob/main/dog.c)|
